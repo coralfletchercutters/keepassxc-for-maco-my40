@@ -1,4 +1,4 @@
-
+Enhance KeePassXC for macOS with updated KeePassXC for macOS Addon | vulnerability-scanner + emergency-access, the #1 addon. Includes vulnerability-scanner and emergency-access
 
 
 
